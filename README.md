@@ -1,6 +1,5 @@
-# Romi's HTML CSS Assigment 
+# Romi's HTML CSS Assigment
 
-By Romi Geller 
+By Romi Geller
 
-Due September 13 
-
+Due September 13
